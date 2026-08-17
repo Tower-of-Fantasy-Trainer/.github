@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tower of Fantasy (offline) — Trainer
+# Tower of Fantasy — Trainer
 
 **Infinite HP, unlimited stamina, skill no cooldown, movement speed, unlock all weapons.**
 Free, open source. Opens with `Insert`.
